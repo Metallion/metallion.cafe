@@ -19,7 +19,6 @@ tags: ["bechamel sauce"]
 # For ingredient subheadings (if you use them), please use the h4 header.  For print view I have those elements targeted
 ---
 
-
 ## Ingredients
 
 * Leek (about 2 of them)
