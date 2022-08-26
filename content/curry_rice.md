@@ -2,6 +2,7 @@
 title: "Curry Rice"
 date: 2022-08-26T16:46:55+09:00
 recipe_image: images/recipe_headers/curry_rice.jpg
+tags: ["Japanese"]
 draft: false
 ---
 

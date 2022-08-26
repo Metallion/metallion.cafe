@@ -2,6 +2,7 @@
 title: "Cheese Cake"
 date: 2022-08-26T15:20:19+09:00
 recipe_image: images/recipe_headers/cheese_cake.jpg
+tags: ["cakes"]
 draft: false
 ---
 

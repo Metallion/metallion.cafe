@@ -2,6 +2,7 @@
 title: "Apple Pie"
 recipe_image: images/recipe_headers/apple_pie.jpg
 date: 2022-08-26T16:43:16+09:00
+tags: ["cakes"]
 draft: false
 ---
 

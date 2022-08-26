@@ -2,6 +2,7 @@
 title: "Ankake Donburi"
 date: 2022-08-26T16:30:33+09:00
 recipe_image: images/recipe_headers/ankake_donburi.jpg
+tags: ["Japanese"]
 draft: false
 ---
 
