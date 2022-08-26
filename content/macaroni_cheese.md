@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Macaroni with cheese sauce"
+title: "Bechamel Macaroni"
 date: 2022-08-26T15:20:19+09:00
 #author: User
 recipe_image: images/recipe_headers/macaroni_cheese.jpg
