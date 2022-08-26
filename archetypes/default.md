@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "{{ replace .Name "_" " " | title }}"
 # author: {{ .Site.Params.front.defaultAuthor | default "User" }}
 recipe_image: images/recipe_headers/{{ .Name }}.jpg
