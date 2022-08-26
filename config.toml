@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://metallion.cafe/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Metallion's Cafe"
 theme = 'cookbook'
