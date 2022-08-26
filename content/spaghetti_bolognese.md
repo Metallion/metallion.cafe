@@ -28,7 +28,7 @@ tags: ["classic"]
 * half a teaspoon of thyme
 * half a teaspoon of oregano
 * pepper and salt
-* half a teaspoon of Mccormic Italian Seasoning... If you can't find this, "herbes dw provence" will do just fine.
+* half a teaspoon of Mccormic Italian Seasoning... If you can't find this, "herbes de provence" will do just fine.
 * A small bush of parsley, chopped.
 
 ## Directions

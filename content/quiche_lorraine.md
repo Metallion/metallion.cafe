@@ -44,8 +44,8 @@ tags: ["hearty"]
 * Put a bit of flour in a bowl
 * Add the egg, butter and a bit of milk
 * Mix it all together. I always use a single chopstick for this ^_^
-* Keep gradually adding flour until you get a knedible dough
-* now kned it for a while and then use the doughroller to spread it out on the table
+* Keep gradually adding flour until you get a malleable dough
+* now kneed it for a while and then use the dough roller to spread it out on the table
 * Grease a pie dish and put the dough inside it
 * Preheat the oven at 180 degrees C and put the dish inside for 10 minutes.
 
@@ -55,7 +55,7 @@ tags: ["hearty"]
 * Break the four eggs into a bowl and scramble them with a fork.
 * Add the cream and some milk until it looks like you have enough filling.
 * Spice it up with a fair amount of pepper and nutmeg. Don't put in any salt since the bacon is already very salty.
-* Mix the whole thing so you've got a homegeneous substance
+* Mix the whole thing so you've got a homogeneous substance
 * Finally poor it over the bacon and cheese in the filling.
 * If you want to you can poor another layer of cheese over it.
 * Now finally bake it in the oven at 180 degrees C for between 40 and 60 minutes depending on your oven.

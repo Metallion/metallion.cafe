@@ -28,7 +28,7 @@ tags: ["classic"]
 * 3 big onions
 * 2 bottles of dark beer. I suggest Chimay Blue.
 * 1 tea spoon of dried thyme
-* 3 laurel leafs
+* 3 laurel leaves
 * 1,5 tea spoons of red berry jam
 * 1 table spoon of red wine vinegar
 
