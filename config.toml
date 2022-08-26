@@ -9,3 +9,21 @@ theme = 'cookbook'
     pre = "fas fa-home" #icon, change if you would prefer a different icon
     url = "/"
     weight = 1
+
+# Print output just creates a special route for a print view
+[outputs]
+  home = ["HTML"]
+  page = ["HTML", "PRINT"]
+
+# The settings for the print format
+[outputFormats]
+[outputFormats.printFormat]
+  name = "print"
+  mediaType = "text/html"
+  baseName = "print"
+  isPlainText = false
+  rel = "print"
+  isHTML = true
+  noUgly = true
+  permalinkable = true
+  path = "print"
